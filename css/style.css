@@ -1438,7 +1438,7 @@ textarea {
 }
 
 a {
-  color: #FF5722;
+  color: #008a00;
   text-decoration: none;
 }
 a:hover, a:focus {
@@ -1668,7 +1668,7 @@ mark,
 }
 
 .text-primary {
-  color: #FF5722;
+  color: #008a00;
 }
 
 a.text-primary:hover,
@@ -1717,7 +1717,7 @@ a.text-danger:focus {
 }
 
 .bg-primary {
-  background-color: #FF5722;
+  background-color: #008a00;
 }
 
 a.bg-primary:hover,
@@ -3179,7 +3179,7 @@ output {
   transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
 }
 .form-control:focus {
-  border-color: #FF5722;
+  border-color: #008a00;
   outline: 0;
   -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 87, 34, 0.6);
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 87, 34, 0.6);
@@ -3761,7 +3761,7 @@ a.btn.disabled, fieldset[disabled] a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #FF5722;
+  background-color: #008a00;
   border-color: #ff4409;
 }
 .btn-primary:focus, .btn-primary.focus {
@@ -3788,11 +3788,11 @@ a.btn.disabled, fieldset[disabled] a.btn {
   background-image: none;
 }
 .btn-primary.disabled, .btn-primary.disabled:hover, .btn-primary.disabled:focus, .btn-primary.disabled.focus, .btn-primary.disabled:active, .btn-primary.disabled.active, .btn-primary[disabled], .btn-primary[disabled]:hover, .btn-primary[disabled]:focus, .btn-primary[disabled].focus, .btn-primary[disabled]:active, .btn-primary[disabled].active, fieldset[disabled] .btn-primary, fieldset[disabled] .btn-primary:hover, fieldset[disabled] .btn-primary:focus, fieldset[disabled] .btn-primary.focus, fieldset[disabled] .btn-primary:active, fieldset[disabled] .btn-primary.active {
-  background-color: #FF5722;
+  background-color: #008a00;
   border-color: #ff4409;
 }
 .btn-primary .badge {
-  color: #FF5722;
+  color: #008a00;
   background-color: #fff;
 }
 
@@ -3945,7 +3945,7 @@ a.btn.disabled, fieldset[disabled] a.btn {
 }
 
 .btn-link {
-  color: #FF5722;
+  color: #008a00;
   font-weight: normal;
   border-radius: 0;
 }
@@ -4112,7 +4112,7 @@ tbody.collapse.in {
   color: #fff;
   text-decoration: none;
   outline: 0;
-  background-color: #FF5722;
+  background-color: #008a00;
 }
 
 .dropdown-menu > .disabled > a, .dropdown-menu > .disabled > a:hover, .dropdown-menu > .disabled > a:focus {
@@ -4550,7 +4550,7 @@ tbody.collapse.in {
 }
 .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
   background-color: #eeeeee;
-  border-color: #FF5722;
+  border-color: #008a00;
 }
 .nav .nav-divider {
   height: 1px;
@@ -4597,7 +4597,7 @@ tbody.collapse.in {
 }
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
   color: #fff;
-  background-color: #FF5722;
+  background-color: #008a00;
 }
 
 .nav-stacked > li {
@@ -5232,7 +5232,7 @@ tbody.collapse.in {
   padding: 14px 12px;
   line-height: 1.42857;
   text-decoration: none;
-  color: #FF5722;
+  color: #008a00;
   background-color: #fff;
   border: 1px solid #ddd;
   margin-left: -1px;
@@ -5262,8 +5262,8 @@ tbody.collapse.in {
 .pagination > .active > span:focus {
   z-index: 2;
   color: #fff;
-  background-color: #FF5722;
-  border-color: #FF5722;
+  background-color: #008a00;
+  border-color: #008a00;
   cursor: default;
 }
 .pagination > .disabled > span,
@@ -5392,7 +5392,7 @@ a.label:hover, a.label:focus {
 }
 
 .label-primary {
-  background-color: #FF5722;
+  background-color: #008a00;
 }
 .label-primary[href]:hover, .label-primary[href]:focus {
   background-color: #ee3900;
@@ -5452,7 +5452,7 @@ a.label:hover, a.label:focus {
   padding: 1px 5px;
 }
 .list-group-item.active > .badge, .nav-pills > .active > a > .badge {
-  color: #FF5722;
+  color: #008a00;
   background-color: #fff;
 }
 .list-group-item > .badge {
@@ -5539,7 +5539,7 @@ a.badge:hover, a.badge:focus {
 a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
-  border-color: #FF5722;
+  border-color: #008a00;
 }
 
 .alert {
@@ -5657,7 +5657,7 @@ a.thumbnail.active {
   line-height: 20px;
   color: #fff;
   text-align: center;
-  background-color: #FF5722;
+  background-color: #008a00;
   -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
   box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
   -webkit-transition: width 0.6s ease;
@@ -5833,8 +5833,8 @@ button.list-group-item {
 .list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
   z-index: 2;
   color: #fff;
-  background-color: #FF5722;
-  border-color: #FF5722;
+  background-color: #008a00;
+  border-color: #008a00;
 }
 .list-group-item.active .list-group-item-heading,
 .list-group-item.active .list-group-item-heading > small,
@@ -6243,22 +6243,22 @@ button.list-group-item-danger.active:focus {
 }
 
 .panel-primary {
-  border-color: #FF5722;
+  border-color: #008a00;
 }
 .panel-primary > .panel-heading {
   color: #fff;
-  background-color: #FF5722;
-  border-color: #FF5722;
+  background-color: #008a00;
+  border-color: #008a00;
 }
 .panel-primary > .panel-heading + .panel-collapse > .panel-body {
-  border-top-color: #FF5722;
+  border-top-color: #008a00;
 }
 .panel-primary > .panel-heading .badge {
-  color: #FF5722;
+  color: #008a00;
   background-color: #fff;
 }
 .panel-primary > .panel-footer + .panel-collapse > .panel-body {
-  border-bottom-color: #FF5722;
+  border-bottom-color: #008a00;
 }
 
 .panel-success {
@@ -7367,14 +7367,14 @@ body.fh5co-offcanvas {
 }
 
 a {
-  color: #FF5722;
+  color: #008a00;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover {
   text-decoration: none !important;
-  color: #FF5722 !important;
+  color: #008a00 !important;
 }
 
 p, ul, ol {
@@ -7397,17 +7397,17 @@ figure {
 
 ::-webkit-selection {
   color: #fcfcfc;
-  background: #FF5722;
+  background: #008a00;
 }
 
 ::-moz-selection {
   color: #fcfcfc;
-  background: #FF5722;
+  background: #008a00;
 }
 
 ::selection {
   color: #fcfcfc;
-  background: #FF5722;
+  background: #008a00;
 }
 
 .btn {
@@ -7437,9 +7437,9 @@ figure {
 }
 
 .btn-primary {
-  background: #FF5722;
+  background: #008a00;
   color: #fff;
-  border: 2px solid #FF5722;
+  border: 2px solid #008a00;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #3c4146 !important;
@@ -7447,11 +7447,11 @@ figure {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #FF5722;
-  border: 2px solid #FF5722;
+  color: #008a00;
+  border: 2px solid #008a00;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #FF5722;
+  background: #008a00;
   color: #fff !important;
 }
 
@@ -7824,7 +7824,7 @@ figure {
 
 #fh5co-primary-menu .fh5co-sub-menu {
   padding: 7px;
-  background: #ff5722;
+  background: #008a00;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
@@ -7842,7 +7842,7 @@ figure {
   width: 0;
   height: 0;
   border-right: 8px solid transparent;
-  border-bottom: 8px solid #FF5722;
+  border-bottom: 8px solid #008a00;
   border-left: 8px solid transparent;
   content: '';
 }
@@ -8050,7 +8050,7 @@ div.cs-select span {
 }
 
 #availability {
-  background: #FF5722;
+  background: #008a00;
   width: 100%;
   top: 1em;
   z-index: 99;
@@ -8170,7 +8170,7 @@ div.cs-select span {
   content: "\e649";
   position: absolute;
   font-size: 16px;
-  color: #FF5722;
+  color: #008a00;
   -webkit-transition: 0.2s;
   -o-transition: 0.2s;
   transition: 0.2s;
@@ -8291,7 +8291,7 @@ div.cs-select span {
   top: 0;
   right: -180px;
   padding: 10px;
-  background: #FF5722;
+  background: #008a00;
   -webkit-transition: 0.2s;
   -o-transition: 0.2s;
   transition: 0.2s;
@@ -8365,7 +8365,7 @@ div.cs-select span {
   top: 0;
   right: -180px;
   padding: 10px;
-  background: #FF5722;
+  background: #008a00;
   -webkit-transition: 0.2s;
   -o-transition: 0.2s;
   transition: 0.2s;
@@ -8474,18 +8474,18 @@ div.cs-select span {
   font-weight: 700;
 }
 #tabs .tabs-nav > a.active {
-  color: #FF5722;
-  border-bottom: 1px solid #FF5722;
+  color: #008a00;
+  border-bottom: 1px solid #008a00;
 }
 #tabs .tabs-nav > a.active .icon {
-  color: #FF5722;
+  color: #008a00;
 }
 #tabs .tabs-nav > a:hover {
   text-decoration: none;
-  color: #FF5722;
+  color: #008a00;
 }
 #tabs .tabs-nav > a:hover .icon {
-  color: #FF5722;
+  color: #008a00;
 }
 #tabs .tabs-nav > a:focus, #tabs .tabs-nav > a:active {
   outline: none;
@@ -8566,7 +8566,7 @@ div.cs-select span {
   top: 0;
   left: -110px;
   padding: 10px;
-  background: #ff5722;
+  background: #008a00;
   color: #fff;
   -webkit-transition: 0.1s;
   -o-transition: 0.1s;
@@ -8632,7 +8632,7 @@ div.cs-select span {
 }
 
 #testimonial {
-  background: #FF5722;
+  background: #008a00;
   float: left;
   width: 100%;
   color: #52565b;
@@ -8727,7 +8727,7 @@ div.cs-select span {
 }
 .services span > i {
   font-size: 50px;
-  color: #FF5722;
+  color: #008a00;
   padding: 15px;
   background: rgba(0, 0, 0, 0.1);
   -webkit-border-radius: 50%;
@@ -8805,11 +8805,11 @@ input[type="text"] {
   font-size: 16px;
 }
 #footer a {
-  color: #FF5722;
+  color: #008a00;
 }
 #footer a:hover {
   text-decoration: underline !important;
-  color: #FF5722;
+  color: #008a00;
 }
 #footer p {
   font-size: 16px;
@@ -8865,7 +8865,7 @@ input[type="text"] {
   color: #b3b3b3 !important;
 }
 #footer .social-icons li a:hover, #footer .social-icons li a:focus, #footer .social-icons li a:active {
-  color: #FF5722 !important;
+  color: #008a00 !important;
   outline: none;
   text-decoration: none !important;
 }
@@ -8949,11 +8949,11 @@ input[type="text"] {
   color: #fff;
 }
 .fh5co-parallax .fh5co-intro p a {
-  color: #FF5722;
+  color: #008a00;
   border-bottom: 2px solid rgba(255, 87, 34, 0.2);
 }
 .fh5co-parallax .fh5co-intro p a:hover {
-  color: #FF5722;
+  color: #008a00;
 }
 .fh5co-parallax .fh5co-intro.box-area {
   padding: 40px;
@@ -9030,14 +9030,14 @@ input[type="text"] {
   color: rgba(255, 255, 255, 0.4);
 }
 #offcanvas-menu ul li a:hover {
-  color: #FF5722;
+  color: #008a00;
 }
 #offcanvas-menu ul li > .fh5co-sub-menu {
   margin-top: 9px;
   padding-left: 20px;
 }
 #offcanvas-menu ul li.active > a {
-  color: #FF5722;
+  color: #008a00;
 }
 #offcanvas-menu ul .fh5co-sub-menu {
   display: block !important;
